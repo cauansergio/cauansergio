@@ -38,9 +38,8 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|-------------|------|
-| *Calculadora reagentes* | uma calculadora para calcular equilíbrio químico,  dissolução de reagentes estequiometria| HTML,  CSS, JAVASCRIPT| [🔗 Ver projeto](link-do-repositorio) |
-| **[Nome do Projeto 2]** | Breve descrição do que o projeto faz | Python, Django, PostgreSQL | [🔗 Ver projeto](link-do-repositorio) |
-| **[Nome do Projeto 3]** | Breve descrição do que o projeto faz | Vue.js, Firebase | [🔗 Ver projeto](link-do-repositorio) |
+| **Calculadora reagentes**| uma calculadora para calcular equilíbrio químico,  dissolução de reagentes estequiometria| HTML,  CSS, JAVASCRIPT| [🔗 Ver projeto](link-do-repositorio) |
+| **calando a boca da Camila** | faz a Milla parar de duvidar de mim | JavaScript | [🔗 Ver projeto](link-do-repositorio) |
 
 ## 📌 Projetos Recentes
 
@@ -68,4 +67,4 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 
 ---
 
-⭐️ Este README foi gerado com um toque de 💙 e tecnologia para destacar meu perfil no GitHub!
+⭐️ Este README foi criado com esforço e tecnologia para destacar meu perfil no GitHub!
