@@ -1,10 +1,10 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Cauan Sérgio! 👋
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalhando com **[tecnologias principais, ex: React, Node.js]** e sempre em busca de novos desafios.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalhando com **JavaScript, python e typescript** e sempre em busca de novos desafios.
 
 - 🔭 Atualmente trabalhando em: *VII café com ciência.*
 - 🌱 Estudando: JavaScript e python
