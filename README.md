@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente trabalhando com **JavaScript, python e typescript** e sempre em busca de novos desafios.
 
-- 🔭 Atualmente trabalhando em: *VII café com ciência.*
+- 🔭 Atualmente trabalhando em: *VIII café com ciência.*
 - 🌱 Estudando: JavaScript e python
 - 👯 Aberto a colaborações em projetos inovadores
 - 💬 Me pergunte sobre: *JavaScript, React.*
