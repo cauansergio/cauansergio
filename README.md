@@ -45,7 +45,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ## 📌 Projetos Recentes
 
 <!-- Aqui você pode listar seus repositórios mais recentes automaticamente ou manualmente -->
-- [Nome do repositório 1] - Descrição curta
+- 2_espelho -simulação de dois espelhos angulares
 - [Nome do repositório 2] - Descrição curta
 - [Nome do repositório 3] - Descrição curta
 
